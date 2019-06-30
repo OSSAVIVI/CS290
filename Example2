@@ -1,0 +1,21 @@
+The other requirement for this lab is below:
+
+The address where we can access Node on Engineering Servers.
+This will be an URL in the form of http://flipX.engr.oregonstate.edu:YYYY, 
+where flipX should be flip1, flip2, or flip3, and YYYY is the port number you choose, 
+for example, 5678.
+After following all the steps,  
+once you go to view the webpage flipX.engr.oregonstate.edu:YYYY, 
+the page displays "MySql results...", 
+that means your link is working and the forever process is up.
+
+My address where you can access my Node on Engineering Servers is below:
+http://flip3.engr.oregonstate.edu:8811
+
+I chose port number 8811 because it is a permutation of the last 4 of my student ID number (1881), 
+which is what the instructions suggested I do. I will upload this to Canvas as a text document in addition to the
+link to this repository, https://github.com/OSSAVIVI/CS290, so it will look like the text below when I
+submit my assignment:
+
+http://flip3.engr.oregonstate.edu:8811
+https://github.com/OSSAVIVI/CS290
